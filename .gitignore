@@ -1,0 +1,10 @@
+# Visual Studio cache/options directory
+.vs/
+
+# Build results
+[Dd]ebug/
+
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
